@@ -95,7 +95,7 @@
     },
     "gsys": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
-      "name": 光速影视"
+      "name": "光速影视"
     },
     "sb": {
       "api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8/at/json",
@@ -123,7 +123,7 @@
     },
     "plyy": {
       "api": "https://p2100.net/api.php/provide/vod/",
-      "name": 飘零影院"
+      "name": "飘零影院"
     },
     "ffzy": {
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
@@ -131,7 +131,7 @@
     },
     "adys": {
       "api": "https://lovedan.net/api.php/provide/vod/?ac=list",
-      "name": 艾旦影视"
+      "name": "艾旦影视"
     },
     "dadi": {
       "api": "https://dadiapi.com/feifei2/",
