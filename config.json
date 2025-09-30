@@ -1,5 +1,5 @@
 {
-    "cache_time": 7201,
+    "cache_time": 7200,
     "api_site": {
         "dyttzy": {
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
@@ -13,7 +13,8 @@
         },
         "ruyi": {
             "api": "http://cj.rycjapi.com/api.php/provide/vod",
-            "name": "如意资源"
+            "name": "如意资源",
+            "detail": "https://www.ryzyw.com/help"
         },
         "bfzy": {
             "api": "https://bfzyapi.com/api.php/provide/vod",
@@ -30,7 +31,8 @@
         },
         "zy360": {
             "api": "https://360zy.com/api.php/provide/vod",
-            "name": "360资源"
+            "name": "360资源",
+            "detail": "https://360zy.com"
         },
         "maotaizy": {
             "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
@@ -38,7 +40,8 @@
         },
         "wolong": {
             "api": "https://wolongzyw.com/api.php/provide/vod",
-            "name": "卧龙资源"
+            "name": "卧龙资源",
+            "detail": "https://wolongzyw.com"
         },
         "jisu": {
             "api": "https://jszyapi.com/api.php/provide/vod",
@@ -47,7 +50,8 @@
         },
         "dbzy": {
             "api": "https://dbzy.tv/api.php/provide/vod",
-            "name": "豆瓣资源"
+            "name": "豆瓣资源",
+            "detail": "https://dbzy.tv"
         },
         "mozhua": {
             "api": "https://mozhuazy.com/api.php/provide/vod",
@@ -55,7 +59,8 @@
         },
         "mdzy": {
             "api": "https://www.mdzyapi.com/api.php/provide/vod",
-            "name": "魔都资源"
+            "name": "魔都资源",
+            "detail": "https://www.mdzyapi.com"
         },
         "zuid": {
             "api": "https://api.zuidapi.com/api.php/provide/vod",
@@ -75,7 +80,8 @@
         },
         "ikun": {
             "api": "https://ikunzyapi.com/api.php/provide/vod",
-            "name": "iKun资源"
+            "name": "iKun资源",
+            "detail": "https://ikunzyapi.com"
         },
         "lzi": {
             "api": "https://cj.lziapi.com/api.php/provide/vod",
@@ -83,11 +89,13 @@
         },
         "xiaomaomi": {
             "api": "https://zy.xmm.hk/api.php/provide/vod",
-            "name": "小猫咪资源"
+            "name": "小猫咪资源",
+            "detail": "https://zy.xmm.hk"
         },
         "hpzy": {
             "api": "https://taopianapi.com/cjapi/mc10/vod/json/m3u8.html",
-            "name": "海片资源"
+            "name": "海片资源",
+            "detail": "https://taopianapi.com"
         },
         "hyzy": {
             "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
@@ -111,7 +119,8 @@
         },
         "ym": {
             "api": "https://www.inmi.app/api.php/provide/vod/",
-            "name": "映迷"
+            "name": "映迷",
+            "detail": "https://www.inmi.app"
         },
         "bdyzy": {
             "api": "https://api.apibdzy.com/api.php/provide/vod/",
@@ -123,15 +132,17 @@
         },
         "ffzy": {
             "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-            "name": "非凡资源"
+            "name": "非凡资源",
+            "detail": "http://cj.ffzyapi.com/"
         },
         "adys": {
             "api": "https://lovedan.net/api.php/provide/vod/?ac=list",
             "name": "艾旦影视"
         },
         "dadi": {
-            "api": "https://dadiapi.com/feifei2/",
-            "name": "大地资源"
+            "api": "https://dadiapi.com/api.php/provide/vod/",
+            "name": "大地资源",
+            "detail": "https://dadiapi.com/feifei2/"
         }
     },
 
@@ -167,15 +178,56 @@
             "name": "日本",
             "type": "movie",
             "query": "日本"
+        }, 
+        {
+            "name": "剧情",
+            "type": "movie",
+            "query": "剧情"
         }, {
-            "name": "美剧",
+            "name": "记录",
+            "type": "movie",
+            "query": "记录"
+        }, {
+            "name": "动画",
+            "type": "movie",
+            "query": "动画"
+        },
+        {
+            "name": "伦理",
+            "type": "movie",
+            "query": "伦理"
+        }, {
+            "name": "惊悚",
+            "type": "movie",
+            "query": "惊悚"
+        },
+        {
+            "name": "欧美剧",
             "type": "tv",
-            "query": "美剧"
+            "query": "欧美剧"
         }, {
             "name": "国产剧",
             "type": "tv",
             "query": "国产剧"
+        }, 
+        {
+            "name": "港台剧",
+            "type": "tv",
+            "query": "港台剧"
         }, {
+            "name": "日韩剧",
+            "type": "tv",
+            "query": "日韩剧"
+        }, {
+            "name": "海外剧",
+            "type": "tv",
+            "query": "海外剧"
+        },{
+            "name": "综艺",
+            "type": "tv",
+            "query": "综艺"
+        },
+        {
             "name": "纪录片",
             "type": "tv",
             "query": "纪录片"
