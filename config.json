@@ -84,6 +84,54 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },    
+    "hpzy": {
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json/m3u8.html",
+      "name": 海片资源"
+    },
+    "hyzy": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/json",
+      "name": "虎牙资源"
+    },
+    "gsys": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
+      "name": 光速影视"
+    },
+    "sb": {
+      "api": "https://subocaiji.com/api.php/provide/vod/from/subm3u8/at/json",
+      "name": "速播"
+    },
+    "sdzy": {
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "name": "闪电资源"
+    },
+    "wjzy": {
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "name": "无尽资源"
+    },
+    "hnzy": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "name": "红牛资源"
+    },
+    "ym": {
+      "api": "https://www.inmi.app/api.php/provide/vod/",
+      "name": "映迷"
+    },
+    "bdyzy": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "name": "百度云资源"
+    },
+    "plyy": {
+      "api": "https://p2100.net/api.php/provide/vod/",
+      "name": 飘零影院"
+    },
+    "ffzy": {
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "name": "非凡资源"
+    },
+    "adys": {
+      "api": "https://lovedan.net/api.php/provide/vod/?ac=list",
+      "name": 艾旦影视"
     },
     "dadi": {
       "api": "https://dadiapi.com/feifei2/",
