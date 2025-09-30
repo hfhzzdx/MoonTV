@@ -84,6 +84,10 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "dadi": {
+      "api": "https://dadiapi.com/feifei2/",
+      "name": "大地资源"
     }
   }
 }
