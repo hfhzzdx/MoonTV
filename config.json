@@ -142,7 +142,15 @@
         "shenlinziyuan":{
       "api": "http://slapibf.com/api.php/provide/vod",
        "name": "森林资源"
-       } 
+       },
+       "suoniziyuan":{
+       "api": "https://suoniapi.com/api.php/provide/vod/",
+       "name": "索尼资源"
+    },
+       "niuniuziyuan":{
+     "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+     "name": "牛牛资源"
+    }
     },
     "custom_category": [{
             "name": "热门",
